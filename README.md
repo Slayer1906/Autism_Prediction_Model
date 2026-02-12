@@ -1,7 +1,3 @@
-Here is a professional and comprehensive `README.md` file tailored for your resume project. It highlights the technical depth of your work (EDA, SMOTE, Hyperparameter Tuning) to stand out to recruiters.
-
----
-
 # Autism Prediction Using Machine Learning
 
 ## 📌 Project Overview
