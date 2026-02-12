@@ -101,8 +101,3 @@ prediction = model.predict(new_data)
 
 ---
 
-### 💡 Tips for your Resume:
-
-* **Highlight SMOTE:** Mentioning you handled "Class Imbalance" shows you understand real-world data problems.
-* **Mention Tuning:** Specifically state that you used `RandomizedSearchCV` to improve model performance, as it shows you go beyond just `model.fit()`.
-* **Business Impact:** In your bullet points, frame it as "Developed a screening tool with 85% accuracy to assist in early ASD diagnosis."
